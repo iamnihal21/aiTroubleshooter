@@ -1,0 +1,9 @@
+/* Add this to your CSS file or style block */
+textarea::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Edge */
+  }
+  
+  textarea {
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+  }
+  
